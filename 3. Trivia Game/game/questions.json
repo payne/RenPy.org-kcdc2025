@@ -1,0 +1,151 @@
+{
+  "questions": [
+    {
+        "question": "Which of these programming languages is the oldest?",
+        "correct_answer": { 
+            "text": "Python", 
+            "comment": "Believe it or not, Python is the oldest of these languages. It was first released in 1991." 
+        },
+        "incorrect_answers": [
+            { 
+                "text": "Java", 
+                "comment": "Java was first released in 1995." 
+            },
+            { 
+                "text": "Ruby", 
+                "comment": "Ruby was first released in 1995." 
+            },
+            { 
+                "text": "PHP", 
+                "comment": "PHP was first released in 1995." 
+            }
+        ]
+    },
+    {
+        "question": "Which of these is NOT a JavaScript library?",
+        "correct_answer": { 
+            "text": "FakeLibJS", 
+            "comment": "How about that? This name was telling the truth!" 
+        },
+        "incorrect_answers": [
+            { 
+                "text": "ThanosJS", 
+                "comment": "It’s real! It randomly deletes half the files in the project." 
+            },
+            { 
+                "text": "fartscroll.js", 
+                "comment": "Yup, it’s a thing. It makes fart sounds when pages are scrolled." 
+            },
+            { 
+                "text": "ComcastifyJS", 
+                "comment": "It actually exists, and it makes images load as slowly as you want." 
+            }
+        ]
+    },
+    {
+        "question": "Which company developed the Java programming language?",
+        "correct_answer": { 
+            "text": "Sun Microsystems", 
+            "comment": "Java was developed by Sun Microsystems, which was acquired by Oracle." 
+        },
+        "incorrect_answers": [
+            { 
+                "text": "Microsoft", 
+                "comment": "No, but Microsoft made an “embrace, extend, extinguish” lookalike language called Visual J++."
+            },
+            { 
+                "text": "Apple", 
+                "comment": "No, but Apple has its own language, Swift." 
+            },
+            { 
+                "text": "IBM", 
+                "comment": "No, but IBM developed a number of languages, including FORTRAN, PL/1, and APL." 
+            }
+        ]
+    },
+    {
+        "question": "Which of these is NOT a character encoding?",
+        "correct_answer": { 
+            "text": "PLUGH", 
+            "comment": "PLUGH is not a character encoding, but a magic word from the original Adventure game." 
+        },
+        "incorrect_answers": [
+            { 
+                "text": "Unicode", 
+                "comment": "Unicode is most definitely a character encoding standard. It’s probably the one being used by this app!"
+            },
+            { 
+                "text": "ASCII", 
+                "comment": "ASCII is a character encoding standard that represents text in computers."
+            },
+            { 
+                "text": "EBCDIC", 
+                "comment": "It’s not really used anymore, but it was once popular in mainframe environments."
+            }
+        ]
+    },
+    {
+        "question": "What’s the maximum number of devices that can be connected in a single USB chain?",
+        "correct_answer": { 
+            "text": "127", 
+            "comment": "USB uses a 7-bit addressing scheme and reserves address 0 as a temporary address for devices that have just been plugged in." 
+        },
+        "incorrect_answers": [
+            { 
+                "text": "64", 
+                "comment": "You’d think that was the case, but it can handle more."
+            },
+            { 
+                "text": "255", 
+                "comment": "A likely number, but that’s wrong."
+            },
+            { 
+                "text": "128", 
+                "comment": "Close, but no cigar."
+            }
+        ]
+    },
+    {
+        "question": "What’s the standard port number for HTTPS?",
+        "correct_answer": { 
+            "text": "443", 
+            "comment": "Nicely done!" 
+        },
+        "incorrect_answers": [
+            { 
+                "text": "80", 
+                "comment": "No, port 80 is used for HTTP, without the “S”."
+            },
+            { 
+                "text": "8080", 
+                "comment": "No, port 8080 is used for HTTP alternate."
+            },
+            { 
+                "text": "21", 
+                "comment": "No, port 21 is used for FTP."
+            }
+        ]
+    },
+    {
+        "question": "Which company created the first commercial microprocessor?",
+        "correct_answer": { 
+            "text": "Intel", 
+            "comment": "Intel created the first commercial microprocessor, the 4004, in 1971."
+        },
+        "incorrect_answers": [
+            { 
+                "text": "AMD", 
+                "comment": "No, AMD didn’t even get into the business until 1975, four years after the first microprocessor."
+            },
+            { 
+                "text": "Motorola", 
+                "comment": "No, Motorola wouldn’t create their first microprocessor, the 6800, until three years after the first microprocessor."
+            },
+            { 
+                "text": "IBM", 
+                "comment": "No, IBM was a major player in early computing but didn't create the first microprocessor."
+            }
+        ]
+    }
+  ]
+}
